@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wiktor Toczyłowski @Wajkt0r</h1>
 <h3 align="center">A passionate backend developer from Poland</h3>
 
-- 🔭 I’m currently working on ASP .NET Core project **UsedCarDealerAPI**
+- 🔭 I’m currently working on ASP.NET Core MVC project **ProjectManager**
 
 - 🌱 I’m in the process of learning ASP .NET Core through college and on platform Udemy
 
